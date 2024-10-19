@@ -14,17 +14,17 @@ bitwise-arithmetic
 
 ├── src/                        # Source files
 
-  ├── arithmetic.c            # Implementation of arithmetic operations
+    ├── arithmetic.c            # Implementation of arithmetic operations
 
-  └── main.c                  # Main entry point of the program
+    └── main.c                  # Main entry point of the program
 
 ├── include/                     # Header files
 
-  └── arithmetic.h            # Function declarations for arithmetic operations
+    └── arithmetic.h            # Function declarations for arithmetic operations
 
 ├── tests/                      # Unit tests
 
-  └── test_arithmetic.c       # Unit tests for arithmetic operations
+    └── test_arithmetic.c       # Unit tests for arithmetic operations
 
 ├── Makefile
                     # Build configuration
