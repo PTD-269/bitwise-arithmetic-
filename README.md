@@ -10,7 +10,7 @@ The Bitwise Arithmetic Project implements basic arithmetic operations (addition,
 - **Division**: Implements division using bitwise operations to calculate the quotient.
 
 ## Project Structure
-bitwise-arithmetic/
+bitwise-arithmetic
 ├── src/                        # Source files
 │   ├── arithmetic.c            # Implementation of arithmetic operations
 │   └── main.c                  # Main entry point of the program
