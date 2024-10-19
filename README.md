@@ -27,7 +27,6 @@ bitwise-arithmetic
 │   └── test_arithmetic.c       # Unit tests for arithmetic operations
 
 ├── Makefile                    # Build configuration
-
 └── README.md                   # Project description and instructions
 
 ## Header File: `arithmetic.h`
