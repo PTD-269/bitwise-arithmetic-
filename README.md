@@ -27,5 +27,7 @@ The `arithmetic.h` header file contains the function declarations for the arithm
 
 ## How to Build
 To compile the project, navigate to the project directory and run:
+
 make
+
 ./bitwise-arithmetic
